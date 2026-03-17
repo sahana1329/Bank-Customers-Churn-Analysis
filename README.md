@@ -2,18 +2,18 @@
 Customer churn analysis using Power BI to identify factors influencing customer attrition.
 
 
-Bank Customer Churn Analysis Dashboard
-Overview
+**Bank Customer Churn Analysis Dashboard
+Overview**
 
 This project analyzes customer churn behavior in a retail banking dataset using Python and Power BI. The goal is to identify key factors contributing to customer attrition and provide actionable insights that can help banks improve customer retention strategies.
 
 The project focuses on exploring demographic, financial, and behavioral attributes of customers to understand patterns behind churn.
 
-Objective
+**Objective**
 
 The main objective of this project is to analyze customer data and identify segments with a higher likelihood of leaving the bank. By uncovering these patterns, businesses can implement targeted retention strategies to reduce churn.
 
-Dataset
+**Dataset**
 
 The dataset contains information about bank customers, including:
 
@@ -27,7 +27,7 @@ Customer engagement (Active membership)
 
 Churn indicator (Exited)
 
-Tools and Technologies
+**Tools and Technologies**
 
 Python
 
@@ -41,7 +41,7 @@ Data Visualization
 
 Exploratory Data Analysis (EDA)
 
-Key Analysis Performed
+**Key Analysis Performed**
 
 The project involved several analytical steps:
 
@@ -57,7 +57,7 @@ Calculating churn rates across different categories
 
 Building an interactive Power BI dashboard to visualize insights
 
-Dashboard Insights
+**Dashboard Insights**
 
 The dashboard highlights several important insights:
 
@@ -71,7 +71,7 @@ Customers using only one banking product are more likely to leave.
 
 Inactive customers have a significantly higher churn probability.
 
-Business Impact
+**Business Impact**
 
 These insights can help banking institutions:
 
