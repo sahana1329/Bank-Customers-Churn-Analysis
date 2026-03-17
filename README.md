@@ -5,7 +5,7 @@ Customer churn analysis using Power BI to identify factors influencing customer 
 **Bank Customer Churn Analysis Dashboard
 Overview**
 
-This project analyzes customer churn behavior in a retail banking dataset using Python and Power BI. The goal is to identify key factors contributing to customer attrition and provide actionable insights that can help banks improve customer retention strategies.
+This project analyzes customer churn behavior in a retail banking dataset using Power BI. The goal is to identify key factors contributing to customer attrition and provide actionable insights that can help banks improve customer retention strategies.
 
 The project focuses on exploring demographic, financial, and behavioral attributes of customers to understand patterns behind churn.
 
@@ -29,12 +29,6 @@ Churn indicator (Exited)
 
 **Tools and Technologies**
 
-Python
-
-Pandas
-
-NumPy
-
 Power BI
 
 Data Visualization
@@ -44,10 +38,6 @@ Exploratory Data Analysis (EDA)
 **Key Analysis Performed**
 
 The project involved several analytical steps:
-
-Data cleaning and preprocessing
-
-Handling missing values and validating data types
 
 Exploratory data analysis to understand customer behavior
 
